@@ -38,14 +38,14 @@ JWT_SECRET=supersecretkey
 CREATE DATABASE user;
 ```
 
-#### 2.3 Jalankan Seeder
-```
-node .\seeder.js
-```
-
-#### 2.4 Jalankan Server
+#### 2.3 Jalankan Server
 ```
 npm run start
+```
+
+#### 2.4 Jalankan Seeder
+```
+node .\seeder.js
 ```
 
 ### 3. Setup Frontend
